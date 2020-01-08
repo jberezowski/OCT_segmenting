@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.vscode
+gsn
+data/*
+!.gitkeep
+!data/*.npy
+*.egg-info
+__pycache__
